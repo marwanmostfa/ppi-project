@@ -1,4 +1,4 @@
-# ppi-project: 8255 Verilog Implementation
+# ppi-project: 8255 chipset Verilog Implementation
 
 Implement the 8255 PPI chip in verilog.
 Note the following​​: The 8255 chip has two modes of operation, BSR mode and I/O mode. Inside the I/O Mode, there are three modes of operation.
